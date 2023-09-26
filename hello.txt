@@ -3,4 +3,3 @@ helloLXQ
 helloLXQ
 helloLXQ
 helloLXQ  master test
-helloLXQ hot-fix test
